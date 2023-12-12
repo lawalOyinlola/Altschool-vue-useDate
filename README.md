@@ -1,3 +1,5 @@
 # Altschool-vue-useDate
 
-[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/lawalOyinlola/Altschool-vue-useDate)
+
+useDate App built with Vue
+[App Demo ⚡️](https://vue-usedate.stackblitz.io/)
