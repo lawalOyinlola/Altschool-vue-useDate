@@ -81,6 +81,7 @@ button:focus-visible {
 .action-btn > button {
   width: 14rem;
   height: 3.2rem;
+  color: #ffffff;
 }
 
 .change-btn {
